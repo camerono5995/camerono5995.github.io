@@ -44,9 +44,11 @@
     <div class="container-fluid bg-1">
         <div class="container">
 
-            <h1 class="margin text-center">Example Project</h1>
-            <p>Text about the project</p>
-            <p>More text about the project.</p>
+            <h1 class="margin text-center"> The movie project</h1>
+            <p>The project we were assigned to do was to create a Hollywood Movie Web page. This project would be later on in the futuer be added to our portfolio.We had to be creative about what movie we would make, but first, we had to come up with a plan with our partner.
+            This is because, with a plan, we have more structure and organization. So, when we get to the part of actually creating the website we know what to do and we aren't lost. 
+            Coming up with a new movie or continueing on a seris that hasn't been made yet was a option too. It could have used as inspiration from these existing movies.</p>
+            <p> In my project with Ryan we both decided to make a part 3 for the movie Turbo. We liked the idea of having a .</p>
             <a href="#">Link about the project</a><br>
 
             <!--EXAMPLE OF PREVIEW LINK-->
